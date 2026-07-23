@@ -25,6 +25,20 @@
       "mp_payment_id": "demo-1784841738515",
       "created_at": "2026-07-23T21:22:16.941Z",
       "paid_at": "2026-07-23T21:22:18.658Z"
+    },
+    {
+      "id": "543b4fac-99a1-43dd-b9fb-4a09d688fae7",
+      "event_id": "demo-event-1",
+      "buyer_name": "pola",
+      "buyer_email": "pola@gmail.com",
+      "buyer_phone": null,
+      "quantity": 1,
+      "total": 8000,
+      "status": "pending",
+      "mp_preference_id": null,
+      "mp_payment_id": null,
+      "created_at": "2026-07-23T21:27:31.309Z",
+      "paid_at": null
     }
   ],
   "tickets": [
