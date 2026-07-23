@@ -11,3 +11,6 @@ out/
 .env.local
 .env*.local
 data/store.json
+
+.vercel
+.env*
