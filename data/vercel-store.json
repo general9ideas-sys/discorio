@@ -49,7 +49,7 @@
       "quantity": 2,
       "total": 16000,
       "status": "pending",
-      "mp_preference_id": null,
+      "mp_preference_id": "demo-pref-9cc51c57-84c7-4b8c-b82f-181a4c0257df",
       "mp_payment_id": null,
       "created_at": "2026-07-23T21:28:19.162Z",
       "paid_at": null
