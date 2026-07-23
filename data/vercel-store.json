@@ -101,6 +101,20 @@
       "mp_payment_id": "demo-1784842988891",
       "created_at": "2026-07-23T21:43:07.336Z",
       "paid_at": "2026-07-23T21:43:09.247Z"
+    },
+    {
+      "id": "3c159eed-0fc5-4f6c-af57-5771007172ff",
+      "event_id": "93459282-3105-41d1-b024-d416e5b9c226",
+      "buyer_name": "carlos",
+      "buyer_email": "ch@gmail.com",
+      "buyer_phone": "3764376959",
+      "quantity": 1,
+      "total": 16000,
+      "status": "pending",
+      "mp_preference_id": null,
+      "mp_payment_id": null,
+      "created_at": "2026-07-23T22:22:45.948Z",
+      "paid_at": null
     }
   ],
   "tickets": [
