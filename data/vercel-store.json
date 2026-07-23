@@ -3,11 +3,11 @@
     {
       "id": "demo-event-1",
       "slug": "proxima",
-      "name": "Disco Río — Fecha especial",
-      "date_iso": "2026-08-15T22:00:00-03:00",
+      "name": "Disco Río — Fecha especial prueba",
+      "date_iso": "2026-08-22T22:00:00-03:00",
       "venue": "El Pontón · Capri Nautic Club, Posadas",
-      "price": 8000,
-      "capacity": 200,
+      "price": 5000,
+      "capacity": 100,
       "active": true
     }
   ],
