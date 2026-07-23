@@ -79,8 +79,8 @@
       "order_id": "9cc51c57-84c7-4b8c-b82f-181a4c0257df",
       "event_id": "demo-event-1",
       "code": "E5BD808BD2DF",
-      "status": "valid",
-      "used_at": null,
+      "status": "used",
+      "used_at": "2026-07-23T21:28:31.749Z",
       "created_at": "2026-07-23T21:28:22.717Z"
     },
     {
