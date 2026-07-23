@@ -39,6 +39,20 @@
       "mp_payment_id": "demo-1784842052678",
       "created_at": "2026-07-23T21:27:31.309Z",
       "paid_at": "2026-07-23T21:27:32.801Z"
+    },
+    {
+      "id": "9cc51c57-84c7-4b8c-b82f-181a4c0257df",
+      "event_id": "demo-event-1",
+      "buyer_name": "loa",
+      "buyer_email": "gas@gmail.com",
+      "buyer_phone": null,
+      "quantity": 2,
+      "total": 16000,
+      "status": "pending",
+      "mp_preference_id": null,
+      "mp_payment_id": null,
+      "created_at": "2026-07-23T21:28:19.162Z",
+      "paid_at": null
     }
   ],
   "tickets": [
