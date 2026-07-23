@@ -134,8 +134,8 @@
       "order_id": "3aeb9cad-2049-4d4e-8980-364ce9b1564f",
       "event_id": "demo-event-1",
       "code": "E2876C292F0F",
-      "status": "valid",
-      "used_at": null,
+      "status": "used",
+      "used_at": "2026-07-23T21:43:44.682Z",
       "created_at": "2026-07-23T21:43:09.247Z"
     }
   ]
