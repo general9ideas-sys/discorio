@@ -4,3 +4,10 @@ cloudflared.exe
 Thumbs.db
 __pycache__/
 .venv/
+node_modules/
+.next/
+out/
+.env
+.env.local
+.env*.local
+data/store.json
