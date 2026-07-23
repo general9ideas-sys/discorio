@@ -20,12 +20,22 @@
       "buyer_phone": null,
       "quantity": 1,
       "total": 8000,
-      "status": "pending",
+      "status": "paid",
       "mp_preference_id": "demo-pref-1df1efa3-0d7f-459b-9d54-f6ab5a177981",
-      "mp_payment_id": null,
+      "mp_payment_id": "demo-1784841738515",
       "created_at": "2026-07-23T21:22:16.941Z",
-      "paid_at": null
+      "paid_at": "2026-07-23T21:22:18.658Z"
     }
   ],
-  "tickets": []
+  "tickets": [
+    {
+      "id": "9d332111-2118-41d9-8e4a-20bfac58a8f4",
+      "order_id": "1df1efa3-0d7f-459b-9d54-f6ab5a177981",
+      "event_id": "demo-event-1",
+      "code": "3E1BF89E9D0B",
+      "status": "valid",
+      "used_at": null,
+      "created_at": "2026-07-23T21:22:18.658Z"
+    }
+  ]
 }
