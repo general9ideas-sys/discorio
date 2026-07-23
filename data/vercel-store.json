@@ -1,6 +1,16 @@
 {
   "events": [
     {
+      "id": "fa1c6233-75db-4bee-b28d-dc5773169186",
+      "slug": "evento-1784843950671",
+      "name": "lata cer",
+      "date_iso": "2026-09-24T18:58:00-03:00",
+      "venue": "centro",
+      "price": 7500,
+      "capacity": 150,
+      "active": true
+    },
+    {
       "id": "demo-event-1",
       "slug": "proxima",
       "name": "Disco Río — Fecha especial prueba",
@@ -8,7 +18,7 @@
       "venue": "El Pontón · Capri Nautic Club, Posadas",
       "price": 5000,
       "capacity": 100,
-      "active": true
+      "active": false
     }
   ],
   "orders": [
