@@ -48,11 +48,11 @@
       "buyer_phone": null,
       "quantity": 2,
       "total": 16000,
-      "status": "pending",
+      "status": "paid",
       "mp_preference_id": "demo-pref-9cc51c57-84c7-4b8c-b82f-181a4c0257df",
-      "mp_payment_id": null,
+      "mp_payment_id": "demo-1784842100585",
       "created_at": "2026-07-23T21:28:19.162Z",
-      "paid_at": null
+      "paid_at": "2026-07-23T21:28:22.717Z"
     }
   ],
   "tickets": [
@@ -73,6 +73,24 @@
       "status": "used",
       "used_at": "2026-07-23T21:27:40.335Z",
       "created_at": "2026-07-23T21:27:32.801Z"
+    },
+    {
+      "id": "83b00e9f-b1b6-41a4-a492-d6030a214a10",
+      "order_id": "9cc51c57-84c7-4b8c-b82f-181a4c0257df",
+      "event_id": "demo-event-1",
+      "code": "E5BD808BD2DF",
+      "status": "valid",
+      "used_at": null,
+      "created_at": "2026-07-23T21:28:22.717Z"
+    },
+    {
+      "id": "fc9a4b65-b4a8-4064-936f-04d73092d1fd",
+      "order_id": "9cc51c57-84c7-4b8c-b82f-181a4c0257df",
+      "event_id": "demo-event-1",
+      "code": "08EFD941DFC7",
+      "status": "valid",
+      "used_at": null,
+      "created_at": "2026-07-23T21:28:22.717Z"
     }
   ]
 }
