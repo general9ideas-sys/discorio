@@ -111,8 +111,8 @@
       "order_id": "4ae1d407-a2e6-417b-b96e-c763b5730051",
       "event_id": "demo-event-1",
       "code": "BD12E4EB5D6A",
-      "status": "valid",
-      "used_at": null,
+      "status": "used",
+      "used_at": "2026-07-23T21:33:59.879Z",
       "created_at": "2026-07-23T21:33:24.806Z"
     }
   ]
