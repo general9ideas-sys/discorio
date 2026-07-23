@@ -35,7 +35,7 @@
       "quantity": 1,
       "total": 8000,
       "status": "pending",
-      "mp_preference_id": null,
+      "mp_preference_id": "demo-pref-543b4fac-99a1-43dd-b9fb-4a09d688fae7",
       "mp_payment_id": null,
       "created_at": "2026-07-23T21:27:31.309Z",
       "paid_at": null
