@@ -8,7 +8,7 @@
       "venue": "villa cabello",
       "price": 8000,
       "capacity": 200,
-      "active": true
+      "active": false
     },
     {
       "id": "93459282-3105-41d1-b024-d416e5b9c226",
