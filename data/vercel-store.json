@@ -28,7 +28,7 @@
       "venue": "centro",
       "price": 7500,
       "capacity": 150,
-      "active": false
+      "active": true
     },
     {
       "id": "demo-event-1",
