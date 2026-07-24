@@ -148,11 +148,11 @@
       "buyer_phone": "3764137295",
       "quantity": 1,
       "total": 16000,
-      "status": "pending",
+      "status": "paid",
       "mp_preference_id": "demo-pref-3c809542-7433-4f3b-8982-bf2b3a567d86",
-      "mp_payment_id": null,
+      "mp_payment_id": "demo-1784852162658",
       "created_at": "2026-07-24T00:15:58.878Z",
-      "paid_at": null
+      "paid_at": "2026-07-24T00:16:02.780Z"
     }
   ],
   "tickets": [
@@ -227,6 +227,15 @@
       "status": "used",
       "used_at": "2026-07-23T22:33:17.133Z",
       "created_at": "2026-07-23T22:31:30.999Z"
+    },
+    {
+      "id": "3330b28c-02e9-4f1b-9d25-32fc90e0c9c0",
+      "order_id": "3c809542-7433-4f3b-8982-bf2b3a567d86",
+      "event_id": "93459282-3105-41d1-b024-d416e5b9c226",
+      "code": "A8E724A7278C",
+      "status": "valid",
+      "used_at": null,
+      "created_at": "2026-07-24T00:16:02.780Z"
     }
   ]
 }
