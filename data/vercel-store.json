@@ -233,8 +233,8 @@
       "order_id": "3c809542-7433-4f3b-8982-bf2b3a567d86",
       "event_id": "93459282-3105-41d1-b024-d416e5b9c226",
       "code": "A8E724A7278C",
-      "status": "valid",
-      "used_at": null,
+      "status": "used",
+      "used_at": "2026-07-24T00:17:37.856Z",
       "created_at": "2026-07-24T00:16:02.780Z"
     }
   ]
