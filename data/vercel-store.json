@@ -38,7 +38,7 @@
       "venue": "El Pontón · Capri Nautic Club, Posadas",
       "price": 5000,
       "capacity": 100,
-      "active": true
+      "active": false
     }
   ],
   "orders": [
