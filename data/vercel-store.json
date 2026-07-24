@@ -18,7 +18,7 @@
       "venue": "costanera sur",
       "price": 16000,
       "capacity": 250,
-      "active": true
+      "active": false
     },
     {
       "id": "fa1c6233-75db-4bee-b28d-dc5773169186",
