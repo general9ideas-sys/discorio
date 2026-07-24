@@ -330,9 +330,9 @@
       "order_id": "cd71a8fd-80c4-4194-9811-772c1a574741",
       "event_id": "1dde8376-e703-4cbc-b80b-54b368c7616c",
       "code": "5DDF47439E74",
-      "status": "valid",
-      "used_at": null,
-      "used_by": null,
+      "status": "used",
+      "used_at": "2026-07-24T12:53:18.372Z",
+      "used_by": "scan",
       "created_at": "2026-07-24T12:51:44.645Z"
     }
   ]
