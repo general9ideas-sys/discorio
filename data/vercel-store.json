@@ -370,9 +370,9 @@
       "order_id": "54d8610b-55f5-4cba-b676-6dd9d4ff3bee",
       "event_id": "93459282-3105-41d1-b024-d416e5b9c226",
       "code": "CF024FCD6222",
-      "status": "valid",
-      "used_at": null,
-      "used_by": null,
+      "status": "used",
+      "used_at": "2026-07-24T13:25:46.254Z",
+      "used_by": "staff",
       "created_at": "2026-07-24T13:00:10.429Z"
     },
     {
