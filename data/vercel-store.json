@@ -1,6 +1,16 @@
 {
   "events": [
     {
+      "id": "dd2ea444-7a2e-4227-875c-fa3cf91b2865",
+      "slug": "evento-1784899697800",
+      "name": "travestis",
+      "date_iso": "2026-12-25T10:27:00-03:00",
+      "venue": "telo loco",
+      "price": 65000,
+      "capacity": 150,
+      "active": true
+    },
+    {
       "id": "1dde8376-e703-4cbc-b80b-54b368c7616c",
       "slug": "evento-1784847070578",
       "name": "Clase disco",
