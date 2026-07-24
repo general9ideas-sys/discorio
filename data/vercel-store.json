@@ -253,6 +253,21 @@
       "mp_payment_id": "demo-1784899069649",
       "created_at": "2026-07-24T13:17:48.093Z",
       "paid_at": "2026-07-24T13:17:49.796Z"
+    },
+    {
+      "id": "eec00e4c-4b23-4a2a-8566-ecbd51cee33f",
+      "event_id": "dd2ea444-7a2e-4227-875c-fa3cf91b2865",
+      "buyer_name": "Corteses jose",
+      "buyer_email": "loco@gmail.com",
+      "buyer_phone": null,
+      "buyer_dni": "36465679",
+      "quantity": 1,
+      "total": 65000,
+      "status": "pending",
+      "mp_preference_id": null,
+      "mp_payment_id": null,
+      "created_at": "2026-07-24T13:29:42.556Z",
+      "paid_at": null
     }
   ],
   "tickets": [
