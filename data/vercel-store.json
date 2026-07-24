@@ -287,8 +287,8 @@
       "order_id": "359cb760-d6e7-49ff-8d70-9af183cd91ac",
       "event_id": "1dde8376-e703-4cbc-b80b-54b368c7616c",
       "code": "996AFF85FE39",
-      "status": "valid",
-      "used_at": null,
+      "status": "used",
+      "used_at": "2026-07-24T12:45:52.256Z",
       "created_at": "2026-07-24T12:25:37.120Z"
     },
     {
