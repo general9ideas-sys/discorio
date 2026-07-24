@@ -178,11 +178,11 @@
       "buyer_dni": "37643769",
       "quantity": 1,
       "total": 8000,
-      "status": "pending",
+      "status": "paid",
       "mp_preference_id": "demo-pref-5b15768c-08e4-4862-9047-f57a5c97437f",
-      "mp_payment_id": null,
+      "mp_payment_id": "demo-1784896179203",
       "created_at": "2026-07-24T12:29:37.688Z",
-      "paid_at": null
+      "paid_at": "2026-07-24T12:29:39.332Z"
     }
   ],
   "tickets": [
@@ -275,6 +275,15 @@
       "status": "valid",
       "used_at": null,
       "created_at": "2026-07-24T12:25:37.120Z"
+    },
+    {
+      "id": "f323b2f1-1f3a-4eff-9fce-cbec0d204d70",
+      "order_id": "5b15768c-08e4-4862-9047-f57a5c97437f",
+      "event_id": "1dde8376-e703-4cbc-b80b-54b368c7616c",
+      "code": "674C0502F360",
+      "status": "valid",
+      "used_at": null,
+      "created_at": "2026-07-24T12:29:39.332Z"
     }
   ]
 }
